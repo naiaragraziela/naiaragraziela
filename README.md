@@ -1,16 +1,18 @@
-## Hi there 👋
+### Boas vindas ao meu perfil 💙
 
-<!--
-**naiaragraziela/naiaragraziela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Naiara graziela 
 
-Here are some ideas to get you started:
+- Estou estudando na alura
+- Estou me desenvolvendo na linguagem JavaScript
+- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Você pode entrar em contato comigo 📬
+
+00001115496931sp@al.educacao.sp.gov.br 
+
+
+
+![](![image](https://github.com/user-attachments/assets/033f16c5-b931-4017-a725-5b5c0a97db89)
+
+
+
